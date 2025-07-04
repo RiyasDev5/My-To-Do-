@@ -7,7 +7,7 @@ Manage your tasks with ease — add, delete, and mark them as completed ✅
 
 ## 🔗 Live Demo
 
-🌐 [Click to view live on Netlify](https://riyas-todo.netlify.app)
+🌐 [Click to view live on Netlify](https://newstodolist.netlify.app/)
 
 ---
 
